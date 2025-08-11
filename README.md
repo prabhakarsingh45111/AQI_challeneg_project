@@ -31,7 +31,7 @@ India has **14 of the world’s 20 most polluted cities**. Before launching thei
 - Linking market research with technical feasibility for product success.
 
 ## 📂 Project Files
-- `Data/` – Raw and cleaned datasets.
+- `` – Raw and cleaned datasets.
 - `PowerBI_Dashboard.pbix` – Interactive dashboard file.
 - `Analysis_Report.pdf` – Detailed findings and recommendations.
 - `README.md` – Project documentation.
