@@ -30,11 +30,6 @@ India has **14 of the world’s 20 most polluted cities**. Before launching thei
 - Importance of data visualization in decision-making.
 - Linking market research with technical feasibility for product success.
 
-## 📂 Project Files
-- `` – Raw and cleaned datasets.
-- `PowerBI_Dashboard.pbix` – Interactive dashboard file.
-- `Analysis_Report.pdf` – Detailed findings and recommendations.
-- `README.md` – Project documentation.
 
 ## 📽 Demo
 - **Video Presentation:** [Watch Here](https://lnkd.in/d_Stvvav)  
